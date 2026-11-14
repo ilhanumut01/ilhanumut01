@@ -6,9 +6,6 @@
 
 <div align="center">
 
-```
-$ whoami
-```
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+Ni%C4%9Fde+%C3%96mer+Halisdemir;.NET+%2F+C%23+Developer;Building+with+Unity+%E2%86%92+Game+Dev;Exploring+NLP+%2F+ML+%E2%80%94+spaCy%2C+scikit-learn%2C+TF-IDF;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
@@ -81,107 +78,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ cat expertise.md`
-
-| Domain | Proficiency | Details |
-|:---|:---:|:---|
-| .NET / C# Desktop | ⭐⭐⭐⭐ | Windows Forms apps with MSSQL — attendance tracking, pharmacy automation |
-| Game Development | ⭐⭐⭐⭐ | Unity + C#, built a full endless-runner game |
-| AI / NLP | ⭐⭐⭐ | TF-IDF & cosine similarity, spaCy, scikit-learn — CV-to-job matcher |
-| Web Development | ⭐⭐⭐ | HTML/CSS/JS sites, Streamlit apps |
-| Parallel Computing | ⭐⭐⭐ | MPI-based parallel processing in Python (DNA analysis) |
-| Embedded Systems | ⭐⭐ | NFC/RFID with PN532 module & MIFARE Classic cards |
-
----
-
-### `$ ls featured-projects/`
-
-<details open>
-<summary><b>🎮 Forest_Runner_Unity</b> — Unity endless runner</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | C#, Unity |
-| **Type** | Endless runner game |
-| **Contribution** | Full solo build — mechanics, scripting, packaging |
-
-🔗 [View Repository](https://github.com/ilhanumut01/Forest_Runner_Unity)
-
-</details>
-
-<details>
-<summary><b>🤖 cv-matcher</b> — CV-to-job listing matcher</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | Python, spaCy, scikit-learn, TF-IDF/cosine similarity, Streamlit |
-| **Scale** | ~500 job listings (Kaggle dataset) |
-| **Impact** | Interactive Streamlit app matching resumes to listings |
-
-🔗 [View Repository](https://github.com/ilhanumut01/cv-matcher)
-
-</details>
-
-<details>
-<summary><b>🧬 Process-Based-Parallelism_Project</b> — MPI parallel DNA analysis</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | Python, mpi4py (MPI) |
-| **Type** | Parallel/distributed computing coursework |
-| **Contribution** | Process-based parallel DNA analysis |
-
-🔗 [View Repository](https://github.com/ilhanumut01/Process-Based-Parallelism_Project)
-
-</details>
-
-<details>
-<summary><b>🏢 Calisan_Takip_Sistemi</b> — Employee attendance tracker</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | C#, Windows Forms |
-| **Type** | Desktop application |
-| **Contribution** | Full solo build |
-
-🔗 [View Repository](https://github.com/ilhanumut01/Calisan_Takip_Sistemi)
-
-</details>
-
-<details>
-<summary><b>💊 Ilac_Otomasyon_Sistemi</b> — Pharmacy/medicine automation system</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | C#, MSSQL |
-| **Type** | Desktop automation system |
-| **Contribution** | Full solo build |
-
-🔗 [View Repository](https://github.com/ilhanumut01/Ilac_Otomasyon_Sistemi)
-
-</details>
-
-<details>
-<summary><b>🌐 Web-Services-Design_Project</b> — Web services coursework</summary>
-<br>
-
-| | |
-|:---|:---|
-| **Stack** | HTML, CSS, JS |
-| **Type** | Web services design project |
-| **Contribution** | Full solo build |
-
-🔗 [View Repository](https://github.com/ilhanumut01/Web-Services-Design_Project)
-
-</details>
-
----
-
 ### `$ git log --oneline --graph`
 
 **Niğde Ömer Halisdemir University** · *Computer Engineering* · `Present`
@@ -197,55 +93,9 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ cat achievements.md`
-
-<div align="center">
-
-| Achievement | Detail |
-|:---|:---|
-| 🎓 Erasmus Exchange | Computer Engineering @ Politechnika Bydgoska |
-| 🧠 AI Course Project | CV-to-job matcher deployed as a Streamlit app |
-
-</div>
-
----
-
 <div align="center">
 
 ![Education](https://img.shields.io/badge/Ni%C4%9Fde%20%C3%96mer%20Halisdemir-Computer%20Engineering-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)
-
-</div>
-
----
-
-### `$ ./github-stats.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ilhanumut01&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" />
-<img height="165" src="https://streak-stats.demolab.com?user=ilhanumut01&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilhanumut01&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" />
-
-</div>
-
----
-
-### `$ ./trophies.sh`
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ilhanumut01&theme=matrix&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
----
-
-### `$ ./activity-graph.sh`
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ilhanumut01&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true)
 
 </div>
 
@@ -274,24 +124,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-### `$ cat current-focus.yaml`
-
-```yaml
-learning:
-  - Advanced NLP techniques beyond TF-IDF (embeddings, transformers)
-  - Core Python features via interactive quiz practice
-building:
-  - .NET/C# desktop applications
-  - AI/NLP tooling following up on the cv-matcher project
-exploring:
-  - Embedded systems (NFC/RFID)
-  - Parallel/distributed computing patterns (MPI)
-open_to:
-  - Software Engineering Internships
-```
-
----
-
 ### `$ ./connect.sh`
 
 <div align="center">
@@ -302,7 +134,7 @@ open_to:
 [![itch.io](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=39FF14)](https://umt-tmu.itch.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/ilhanumut01)
 
-*"Ship it, document it, iterate."*
+*"to get something you never had you have to do something you never did"*
 
 ![Footer](https://capsule-render.vercel.app/api?type=venom&color=0:39FF14,100:0D1117&height=100&section=footer)
 
