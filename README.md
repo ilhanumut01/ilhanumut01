@@ -6,8 +6,7 @@
 
 <div align="center">
 
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=650&lines=Computer+Engineering+Student+%40+Ni%C4%9Fde+%C3%96mer+Halisdemir;.NET+%2F+C%23+Developer;Building+with+Unity+%E2%86%92+Game+Dev;Exploring+NLP+%2F+ML+%E2%80%94+spaCy%2C+scikit-learn%2C+TF-IDF;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40+Ni%C4%9Fde+%C3%96mer+Halisdemir;.NET+%2F+C%23+Developer;Building+with+Unity+%E2%86%92+Game+Dev+(Forest+Runner);Deep+Learning+%26+NLP+%E2%80%94+PyTorch%2C+CNN%2C+spaCy;Parallel+Computing+%E2%80%94+MPI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -23,6 +22,7 @@
 
 [![Portfolio](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=39FF14)](https://umt-tmu.itch.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/umut-ilhan000/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=39FF14)](https://www.kaggle.com/umutilhann)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:umutilhan621@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/ilhanumut01)
 
@@ -40,13 +40,13 @@
 
 ### `$ cat about.md`
 
-Computer Engineering student at **Niğde Ömer Halisdemir University**, building projects across .NET/C# desktop apps, game development, AI/NLP, embedded systems, and parallel computing. I like taking a concept — a game mechanic, a matching algorithm, a hardware read — and shipping it as a working, documented repo.
+Computer Engineering student at **Niğde Ömer Halisdemir University** with Erasmus exchange experience at **Politechnika Bydgoska**, building projects across .NET/C# desktop apps, Unity game development, deep learning & NLP (PyTorch, CNN, LSTM), embedded systems, and parallel computing. I like taking a concept — a game mechanic, a neural network, a hardware read — and shipping it as a working, documented repo.
 
 ```bash
 ROLE     Computer Engineering Student
-FOCUS    .NET/C# · Game Development (Unity) · AI/ML/NLP
+FOCUS    .NET/C# · Game Development (Unity) · Deep Learning · NLP
 DOMAIN   Desktop · Web · Embedded · Parallel Computing
-STACK    C#, Python, Java, JavaScript, .NET, SQL
+STACK    C#, Python, Java, JavaScript, .NET, PyTorch, SQL
 OPEN_TO  Software Engineering Internships
 ```
 
@@ -58,23 +58,13 @@ OPEN_TO  Software Engineering Internships
 ![Skills](https://skillicons.dev/icons?i=cs,python,java,js,html,css&theme=dark)
 
 **Game Dev & Frameworks**
-![Skills](https://skillicons.dev/icons?i=unity,dotnet&theme=dark)
+![Skills](https://skillicons.dev/icons?i=unity,dotnet,pytorch,nodejs&theme=dark)
 
 **Data & Databases**
-![Skills](https://skillicons.dev/icons?i=mysql,sqlite,mssql&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
 
 **Tools**
-![Skills](https://skillicons.dev/icons?i=git,github,vscode&theme=dark)
-
----
-
-### `$ cat specialties.md`
-
-![Game Dev](https://img.shields.io/badge/Game%20Development-Unity%20%2F%20C%23-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![NLP](https://img.shields.io/badge/NLP-spaCy%20%2F%20TF--IDF-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![ML](https://img.shields.io/badge/Machine%20Learning-scikit--learn-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![Parallel](https://img.shields.io/badge/Parallel%20Computing-MPI-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
-![Embedded](https://img.shields.io/badge/Embedded-NFC%2FRFID-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark)
 
 ---
 
@@ -82,14 +72,18 @@ OPEN_TO  Software Engineering Internships
 
 **Niğde Ömer Halisdemir University** · *Computer Engineering* · `Present`
 - Currently studying Computer Engineering
-- Building coursework and personal projects across .NET/C#, Unity, Python, and SQL
+- Building .NET/C# desktop applications (Employee Attendance & Material Tracking with WinForms and SQL)
+- Developing Unity 3D game mechanics (*Forest Runner* endless runner with procedural generation)
+- Implementing AI & Machine Learning coursework across classification and data processing
+- Implemented Parallel DNA Sequence Analysis using MPI (`mpi4py`) and NFC UART protocol on PN532
+- Built Plant Leaf Disease Classifier with CNN (97.0% test accuracy) and MobileNetV2 transfer learning
 
 **Politechnika Bydgoska** · *Erasmus Exchange* · `Past`
-- Completed coursework and graded projects in English across AI/ML, web, and parallel computing
-- Built an AI course project: CV-to-job-listing matcher (TF-IDF/cosine similarity + spaCy, Streamlit)
-- Wrote a technical report on NFC/RFID systems (PN532 module, MIFARE Classic)
+- Completed coursework and graded projects in English across Deep Learning, Parallel Computing, and Web
+- Developed LSTM Commit Message Classifier (PyTorch) & CV-to-Job Matcher (spaCy + TF-IDF)
+- Implemented NFC UART protocol on PN532
 
-`#CSharp` `#DotNet` `#Unity` `#NLP` `#Python` `#MPI`
+`#CSharp` `#DotNet` `#Unity` `#DeepLearning` `#PyTorch` `#NLP` `#Python` `#MPI`
 
 ---
 
@@ -122,6 +116,7 @@ OPEN_TO  Software Engineering Internships
 
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14)](https://www.instagram.com/mt_lhn)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/umut-ilhan000/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0D1117?style=for-the-badge&logo=kaggle&logoColor=39FF14)](https://www.kaggle.com/umutilhann)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:umutilhan621@gmail.com)
 [![itch.io](https://img.shields.io/badge/itch.io-0D1117?style=for-the-badge&logo=itchdotio&logoColor=39FF14)](https://umt-tmu.itch.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/ilhanumut01)
