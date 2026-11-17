@@ -116,14 +116,6 @@ OPEN_TO  Software Engineering Internships
 
 ---
 
-<div align="center">
-
-[![snake gif](https://raw.githubusercontent.com/ilhanumut01/ilhanumut01/output/github-contribution-grid-snake-dark.svg)](https://github.com/Platane/snk)
-
-</div>
-
----
-
 ### `$ ./connect.sh`
 
 <div align="center">
