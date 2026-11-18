@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40+Ni%C4%9Fde+%C3%96mer+Halisdemir;.NET+%2F+C%23+Developer;Building+with+Unity+%E2%86%92+Game+Dev+(Forest+Runner);Deep+Learning+%26+NLP+%E2%80%94+PyTorch%2C+CNN%2C+spaCy;Parallel+Computing+%E2%80%94+MPI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&width=680&lines=Computer+Engineering+Student+%40+Ni%C4%9Fde+%C3%96mer+Halisdemir;.NET+%2F+C%23+Developer;Building+with+Unity+%E2%86%92+Game+Dev+(Forest+Runner);Deep+Learning+%26+NLP+%E2%80%94+PyTorch%2C+CNN%2C+spaCy;Machine+Learning+%E2%80%94+scikit-learn%2C+Clustering%2C+Anomaly+Detection;Building+AI-powered+Route+Planner+with+Flutter;Parallel+Computing+%E2%80%94+MPI;Open+to+Software+Engineering+Internships" alt="Typing SVG" />
 
 </div>
 
@@ -40,13 +40,13 @@
 
 ### `$ cat about.md`
 
-Computer Engineering student at **Niğde Ömer Halisdemir University** with Erasmus exchange experience at **Politechnika Bydgoska**, building projects across .NET/C# desktop apps, Unity game development, deep learning & NLP (PyTorch, CNN, LSTM), embedded systems, and parallel computing. I like taking a concept — a game mechanic, a neural network, a hardware read — and shipping it as a working, documented repo.
+Computer Engineering student at **Niğde Ömer Halisdemir University** with Erasmus exchange experience at **Politechnika Bydgoska**, building projects across .NET/C# desktop apps, Unity game development, Flutter mobile development, deep learning & NLP (PyTorch, CNN, LSTM), classical machine learning (scikit-learn), embedded systems, and parallel computing. I like taking a concept — a game mechanic, a neural network, a hardware read — and shipping it as a working, documented repo.
 
 ```bash
 ROLE     Computer Engineering Student
-FOCUS    .NET/C# · Game Development (Unity) · Deep Learning · NLP
+FOCUS    .NET/C# · Game Development (Unity) · Deep Learning · NLP · Machine Learning
 DOMAIN   Desktop · Web · Embedded · Parallel Computing
-STACK    C#, Python, Java, JavaScript, .NET, PyTorch, SQL
+STACK    C#, Python, Java, JavaScript, Dart, .NET, Flutter, PyTorch, scikit-learn, SQL
 OPEN_TO  Software Engineering Internships
 ```
 
@@ -55,13 +55,13 @@ OPEN_TO  Software Engineering Internships
 ### `$ ls tech-stack/`
 
 **Languages & Core**
-![Skills](https://skillicons.dev/icons?i=cs,python,java,js,html,css&theme=dark)
+![Skills](https://skillicons.dev/icons?i=cs,python,java,js,dart,html,css&theme=dark)
 
 **Game Dev & Frameworks**
-![Skills](https://skillicons.dev/icons?i=unity,dotnet,pytorch,nodejs&theme=dark)
+![Skills](https://skillicons.dev/icons?i=unity,dotnet,flutter,pytorch,sklearn,nodejs&theme=dark)
 
 **Data & Databases**
-![Skills](https://skillicons.dev/icons?i=mysql,sqlite&theme=dark)
+![Skills](https://skillicons.dev/icons?i=mysql,sqlite,pandas,numpy&theme=dark)
 
 **Tools**
 ![Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark)
@@ -74,8 +74,9 @@ OPEN_TO  Software Engineering Internships
 - Currently studying Computer Engineering
 - Building .NET/C# desktop applications (Employee Attendance & Material Tracking with WinForms and SQL)
 - Developing Unity 3D game mechanics (*Forest Runner* endless runner with procedural generation)
-- Implementing AI & Machine Learning coursework across classification and data processing
-- Implemented Parallel DNA Sequence Analysis using MPI (`mpi4py`) and NFC UART protocol on PN532
+- Completed Machine Learning course series with scikit-learn, each with a written report — see [AI-Projects](https://github.com/ilhanumut01/AI-Projects)
+- Implemented Parallel DNA Sequence Analysis using MPI (`mpi4py`)
+- Developing *route_ai_app*, an AI-powered route planning mobile app built with Flutter
 - Built Plant Leaf Disease Classifier with CNN (97.0% test accuracy) and MobileNetV2 transfer learning
 
 **Politechnika Bydgoska** · *Erasmus Exchange* · `Past`
