@@ -54,17 +54,24 @@ OPEN_TO  Software Engineering Internships
 
 ### `$ ls tech-stack/`
 
-**Languages & Core**
-![Skills](https://skillicons.dev/icons?i=cs,python,java,js,dart,html,css&theme=dark)
-
-**Game Dev & Frameworks**
-![Skills](https://skillicons.dev/icons?i=unity,dotnet,flutter,pytorch,sklearn,nodejs&theme=dark)
-
-**Data & Databases**
-![Skills](https://skillicons.dev/icons?i=mysql,sqlite,pandas,numpy&theme=dark)
-
-**Tools**
-![Skills](https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark)
+<table>
+<tr>
+<td valign="middle"><b>Languages & Core</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=cs,python,java,js,dart,html,css&theme=dark" alt="Languages & Core" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Game Dev & Frameworks</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=unity,dotnet,flutter,pytorch,sklearn,nodejs&theme=dark" alt="Game Dev & Frameworks" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Data & Databases</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="Data & Databases" /></td>
+</tr>
+<tr>
+<td valign="middle"><b>Tools</b></td>
+<td valign="middle"><img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" alt="Tools" /></td>
+</tr>
+</table>
 
 ---
 
